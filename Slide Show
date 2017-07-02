@@ -1,0 +1,38 @@
+Following is code used to create slideshow block in Creative Responsive Theme 
+
+
+<div class="carousel slide" data-ride="carousel" id="myCarousel"><!-- Indicators -->
+<ol class="carousel-indicators">
+	<li class="active" data-slide-to="0" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="1" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="2" data-target="#myCarousel">&nbsp;</li>
+</ol>
+<!-- Wrapper for slides -->
+
+<div class="carousel-inner" role="listbox">
+<div class="item active"><img alt="Zymphonies Free Banner Image" src="http://www.iifii.org/images/member/acad.jpg" />
+<div class="carousel-caption">
+<h3>Slider Title</h3>
+
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+</div>
+</div>
+
+<div class="item"><img alt="Zymphonies Free Banner Image" src="http://www.ug.edu.gh/iast/sites/iast/files/pictures/research-sm.jpeg" />
+<div class="carousel-caption">
+<h3>Slider Title</h3>
+
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+</div>
+</div>
+
+<div class="item"><img alt="Zymphonies Free Banner Image" src="https://paradigmmalibu.com/wp-content/uploads/2013/09/Academic-banner.jpg" />
+<div class="carousel-caption">
+<h3>Slider Title</h3>
+
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+</div>
+</div>
+<!-- Place addition image item here --></div>
+</div>
+
