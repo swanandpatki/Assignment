@@ -1,0 +1,41 @@
+Issues Faced:
+1.I'm doing website using pantheon,there are two types of connection modes in pantheon.One is SFTP mode and another is Git.
+I have to connect my website in git for this assignment,but when I tried to push website in git mode website encoutered error because of changing connection mode thats why I'm not
+able to clone it git.
+For this issue I connected with pantheon Help Center.Following Conversation with Tim member for pantheon help center
+
+On Thu, Jun 29, 2017 at 10:27 AM, "swanand patki" <swanandpatki1994@gmail.com> wrote: 
+Hello , i got The website encountered an unexpected error. Please try again later.This error when i changed connection mode from SFTP to Git. How i can solve this issue.Please help me out.
+
+On Thu, Jun 29, 2017 at 10:40 AM, "Tim Wooten" <tim.wooten@pantheon-70c9909349fd.intercom-mail.com> wrote: 
+Hello, can you tell me which site this is for, or provide me with the dashboard URL please?
+
+On Thu, Jun 29, 2017 at 10:43 AM, "swanand patki" <swanandpatki1994@gmail.com> wrote: 
+https://dashboard.pantheon.io/sites/47ff793a-2cae-4952-b864-4b0a89e1f99a#dev/code
+
+On Thu, Jun 29, 2017 at 10:44 AM, "swanand patki" <swanandpatki1994@gmail.com> wrote: 
+thanks for helping
+
+On Thu, Jun 29, 2017 at 10:52 AM, "Tim Wooten" <tim.wooten@pantheon-70c9909349fd.intercom-mail.com> wrote: 
+thanks, i'm looking into this now
+
+On Thu, Jun 29, 2017 at 10:58 AM, "Tim Wooten" <tim.wooten@pantheon-70c9909349fd.intercom-mail.com> wrote: 
+hmmm, not sure what is happening here. i'm seeing this in the watchdog logs
+you didn't happen to delete any module files, did you?
+
+On Thu, Jun 29, 2017 at 11:02 AM, "swanand patki" <swanandpatki1994@gmail.com> wrote: 
+while changing connection mode pop message came you might loss something doing change
+because of that i think any file or module is deleted
+
+On Thu, Jun 29, 2017 at 11:07 AM, "Tim Wooten" <tim.wooten@pantheon-70c9909349fd.intercom-mail.com> wrote: 
+yes I think you might be correct. If you still have the modules, you can re-upload them and see if that clears the error.
+
+I'd like to suggest also to begin making backups of your work periodically, so that you'll have something to use in cases such as this.
+
+
+
+
+
+2.This happened again doing same thats why third time i didnt changed connection mode.
+
+3.Because of this issues I was not able to change any template of theme to override design
